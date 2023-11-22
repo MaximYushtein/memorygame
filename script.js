@@ -14,7 +14,7 @@ let imageNames = ["maxres2 0.jpeg",
    "download (1) 6.png",
    "download 7.jpeg",
    "download 8.png",
-   "_91408619_55df76d5-2245-41c1-8031-07a4da3f313f 9.jpeg",]
+   "91408619_55df76d5-2245-41c1-8031-07a4da3f313f 9.jpeg",]
 let gamearray = []
 let phone = 0
 let open = []
