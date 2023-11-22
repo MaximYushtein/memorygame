@@ -1,0 +1,42 @@
+html{
+    min-height: 100%;
+}
+body{
+    text-align: center;
+    background-image:url("BG.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+h1{
+font-family: 'Berkshire Swash', cursive;
+color:rgba(255, 166, 0, 0.0);
+background: rgb(230,57,0);
+background: linear-gradient(90deg, rgb(16, 43, 253) 0%, rgb(255, 0, 179) 100%);
+-webkit-background-clip:text;
+font-size: 60px;
+-webkit-text-stroke: 1px rgba(119, 0, 128, 0.536);
+}
+img{
+    width: calc(20% -  10px );
+    margin:5px;
+    border: 10px solid rgba(128, 0, 128, 0.325);
+    border-radius: 10px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    object-fit: cover;
+}
+img:hover{
+    border: 10px solid rgba(128, 0, 128, 0.825);
+    
+}
+div{
+    font-size: 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    border-radius: 10px;
+    border: 10px solid rgba(128, 0, 128, 0.625);
+    
+}
